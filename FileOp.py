@@ -57,8 +57,8 @@ class FileOp(object):
         return self.__move(to)
 
 def test():
-    f_op = FileOp(r'C:\Users\user\Documents\Codekvng')
+    f_op = FileOp(r'')
     f_op.file_list()
-    f_op.move(to=r'C:\Users\user\Documents\Codekvng\new')
+    f_op.move(to=r'')
 
 test()
