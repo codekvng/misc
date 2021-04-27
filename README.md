@@ -1,2 +1,2 @@
 # Miscellaneous Scripts
-Python Scripts to automate some actions
+Scripts and Basic programs written by me.
